@@ -1,0 +1,3 @@
+﻿  Queue.cpp
+c:\users\dell\desktop\queue\queue\queue\queue.cpp(134): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Queue.vcxproj -> C:\Users\DELL\Desktop\Queue\Queue\Debug\Queue.exe
